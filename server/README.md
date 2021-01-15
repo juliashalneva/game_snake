@@ -1,4 +1,4 @@
-# project-snake
+# game-snake
 Проект по предмету Проектный практикум
 
 ## API
